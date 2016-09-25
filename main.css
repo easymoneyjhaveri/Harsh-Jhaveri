@@ -1,0 +1,31 @@
+ol {
+  color:red;
+  font-size:80px;
+}
+
+#Ba {
+  
+  font-size:70px
+}
+
+.secret {
+  color:white;
+  font-size: 150px;
+}
+
+.secret:hover { 
+    color: grey;
+}
+#Vg {
+  font-size:70px;
+}
+
+#H {
+  font-size:70px;
+}
+
+p {
+  color:red;
+  font-size:100;
+}
+
